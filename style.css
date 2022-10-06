@@ -1,0 +1,289 @@
+*,
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color: black;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: underline;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    /* height: 100%; */
+    width: 100%;
+    flex-direction: column;
+    background-color: white;
+
+}
+
+.inner-wrapper {
+    width: 100%;
+    /* box-shadow: 0px 0px 10px 0px white; */
+    margin-top: 5%;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 160px;
+
+}
+
+section {
+    white-space: pre;
+    font-size: 13px;
+    margin: 5% 15% 0% 5%;
+    text-align: left;
+    /* display: flex;
+flex-direction: column; */
+}
+
+.nav {
+    /* height: 10%; */
+    /* margin-top: 10px; */
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+
+}
+
+
+.line {
+    width: 40px;
+    height: 7px;
+    margin-bottom: 2px;
+    background-color: white;
+}
+
+.menu {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    border-right: 1px solid black;
+    color: black;
+    background-color: black;
+    overflow-y: scroll;
+
+}
+
+
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold
+}
+
+.sideBtn {
+    height: 20px;
+    max-width: 200px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+
+}
+
+.sideBtn:hover {
+    font-size: 12px;
+    height: fit-content;
+    transition-duration: 0.5s;
+    overflow-wrap: break-word;
+
+}
+
+
+hr {
+    margin-top: 5%;
+
+}
+
+h1 {
+    color: brown;
+    margin: 0% 0% 0% 3%;
+    padding: 0;
+    font-size: 25px;
+
+}
+
+.nav P {
+    /* margin-top: 10%; */
+}
+
+.naslov {
+    font-size: 40px;
+    color: black;
+}
+
+.extreme {
+    background-color: grey;
+}
+
+.brango {
+    background-color: coral;
+}
+
+.yabby {
+    background-color: dodgerblue;
+}
+
+.extremec {
+    color: grey;
+}
+
+.brangoc {
+    color: coral;
+}
+
+.yabbyc {
+    color: dodgerblue;
+}
+
+.limits {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 300px;
+    left: 200px;
+    border-bottom: 1px solid white;
+    border-left: 1px solid black;
+    color: black;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: calc(100% - 300px)
+}
+
+.carefull {
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.other {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    /* top: 100px; */
+    right: 0;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+
+
+.corner {
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corner2 {
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hejght {
+    height: 100%;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border-right: 2px solid black;
+
+}
+
+.other a {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 3px;
+    /* text-decoration: none; */
+
+}
+
+.other p {
+    color:brown;
+    font-weight: bold;
+
+}
+
+button {
+    background-color: w;
+    width: 20%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button a {
+    text-decoration: none;
+    display: block;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+label {
+    display: block;
+}
+
+.new-btn {
+    margin-top: 5%;
+}
+
+.reply {
+    width: 100vh;
+    margin-bottom: 10%;
+    font-size: 1rem;
+}
+
+.new-div {
+    margin-left: 5%;
+    margin-top: 2%;
+}
+/* h3{
+    color: brown;
+} */
