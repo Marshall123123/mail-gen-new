@@ -26,15 +26,15 @@ let blitzTerms = "</br></br>We will provide our Terms & Conditions that you can 
 
 
 //specific reasons
-let overbettingReason = "<b>-You were overbetting.</b></br>When playing with any bonus in our casino, your individual 'maximum' bet per hand is limited to $10.00, unless otherwise is specifically stated.</br></br>"
-let playing777Reason = "<b>-You were playing 777slots.</b></br>When playing with any bonus in our casino, you are not allowed to play 777slots, unless otherwise is specifically stated.</br></br>"
-let playingProgressiveReason = "<b>-You were playing casino progressive games.</b></br>When playing with any bonus in our casino, you are not allowed to play casino progressive games, unless otherwise is specifically stated.</br></br>"
-let playingLiveDealerReason = "<b>-You were playing the live dealer.</b></br>When playing with any bonus in our casino, you are not allowed to play live dealer games, unless otherwise is specifically stated.</br></br>"
-let playingCouponExcludedGameReason = "<b>-You were playing a game that is not allowed by your coupon terms.</b></br>Each coupon has terms that prescribe what game is allowed to play with that particular coupon.</br></br>"
-let onlyOnePayoutOutOfCouponReason = "<b>-You have already had a payout from the same promotion you are requesting withdrawal from.</b></br>Your promotion allows only one payout from it. You can find terms linked to that promotion here [terms link]</br></br>"
-let mixingFundActionReason = "<b>-You were mixing fund actions.</b></br>While playing in our casino, you are not allowed to start or request any new action, before your balance is below $1.</br></br>"
-let depositNotInWalletReason = "<b>-Your deposit has not reached our wallet.</b></br>We will process your deposit right after it gets one confirmation on the blockchain, but please understand that we are unable to process the payout before it reaches our wallet. </br></br>"
-let multipleAccountsReason = "<b>-We have found that you have multiple accounts.</b></br>Please use the following account[account username]. You can use only one account where you will make a deposit, which will make you eligible for redeeming free promotions again.</br></br>"
+let overbettingReason = "<b>-You were overbetting.</b></br>When playing with any bonus in our casino, your individual 'maximum' bet per hand is limited to $10.00, unless otherwise is specifically stated.</br>"
+let playing777Reason = "<b>-You were playing 777slots.</b></br>When playing with any bonus in our casino, you are not allowed to play 777slots, unless otherwise is specifically stated.</br>"
+let playingProgressiveReason = "<b>-You were playing casino progressive games.</b></br>When playing with any bonus in our casino, you are not allowed to play casino progressive games, unless otherwise is specifically stated.</br>"
+let playingLiveDealerReason = "<b>-You were playing the live dealer.</b></br>When playing with any bonus in our casino, you are not allowed to play live dealer games, unless otherwise is specifically stated.</br>"
+let playingCouponExcludedGameReason = "<b>-You were playing a game that is not allowed by your coupon terms.</b></br>Each coupon has terms that prescribe what game is allowed to play with that particular coupon.</br>"
+let onlyOnePayoutOutOfCouponReason = "<b>-You have already had a payout from the same promotion you are requesting withdrawal from.</b></br>Your promotion allows only one payout from it. You can find terms linked to that promotion here [terms link]</br>"
+let mixingFundActionReason = "<b>-You were mixing fund actions.</b></br>While playing in our casino, you are not allowed to start or request any new action, before your balance is below $1.</br>"
+let depositNotInWalletReason = "<b>-Your deposit has not reached our wallet.</b></br>We will process your deposit right after it gets one confirmation on the blockchain, but please understand that we are unable to process the payout before it reaches our wallet. </br>"
+let multipleAccountsReason = "<b>-We have found that you have multiple accounts.</b></br>Please use the following account[account username]. You can use only one account where you will make a deposit, which will make you eligible for redeeming free promotions again.</br>"
 
 //terms
 let extremeOverbetting = "<br><i>7.1.w - In the interests of fair gaming, all bonus promotions are limited on the maximum bet allowed to be placed. $/€ 10 is the maximum bet amount allowed on any promotion, unless SPECIFICALLY stated otherwise in the promotion. Betting above this amount will result in promotion winnings being voided and removed.</i>"
